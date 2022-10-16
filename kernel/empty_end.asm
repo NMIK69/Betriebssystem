@@ -1,0 +1,1 @@
+times 8192 db 0 ;16 blank sectors
